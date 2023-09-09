@@ -1,0 +1,16 @@
+{
+	"name": "com.ellyality.multiplayer.core",
+	"displayName":"Elly Multiplayer Core",
+	"version": "1.0.0",
+    "author": "Elly.Multiplayer",
+    "unity": "2019.2",
+    "keywords": ["multiplayer", "core", "framework"],
+    "category": "engineering",
+    "license": "LICENSE",
+	"description": "Sqlite database SDK",
+    "documentationUrl": "https://github.com/Ellyality/package_socketio/blob/main/README.md",
+    "dependencies": {
+		"com.ellyality.network.socketio": "1.0.0",
+		"com.ellyality.data.sqlite": "1.0.3",
+    }
+}
