@@ -1,0 +1,17 @@
+{
+    "name": "Elly.Multiplayer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:87c263754954da14480ab473f0d3fcf8",
+        "GUID:ac740251aebda49e8bf622aa1652e9e3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -11,6 +11,6 @@
     "documentationUrl": "https://github.com/Ellyality/package_socketio/blob/main/README.md",
     "dependencies": {
 		"com.ellyality.network.socketio": "1.0.0",
-		"com.ellyality.data.sqlite": "1.0.3",
+		"com.ellyality.data.sqlite": "1.0.4",
     }
 }

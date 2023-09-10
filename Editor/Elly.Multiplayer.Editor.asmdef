@@ -1,0 +1,18 @@
+{
+    "name": "Elly.Multiplayer.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8d9b818a36b848f4bb885de44bc40295"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
