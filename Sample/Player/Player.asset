@@ -21,6 +21,6 @@ MonoBehaviour:
     - {fileID: 11400000, guid: 06f8e84796c59c049a0bef0fde7afdba, type: 2}
     - {fileID: 11400000, guid: 81432d555421c234084d956264ee020c, type: 2}
     - {fileID: 11400000, guid: 8556b76df62c4af458f29e3256a2e759, type: 2}
-    wearables:
+    Wearables:
     - {fileID: 11400000, guid: e73464c2e981741498442a04dc04c8b4, type: 2}
     - {fileID: 11400000, guid: 5a3ddf29f98af7c41b1a97bfeac0ec1b, type: 2}

@@ -4,8 +4,12 @@ namespace Elly.Multiplayer
 {
     public class MultiplayerSetting : ScriptableObject
     {
-        [SerializeField] string ServerAddress;
-        [SerializeField] PlayerStructureScriptableObject PlayerTemplate;
+        [Header("Client Side")]
+        [SerializeField] public string ServerAddress;
+        [SerializeField] public PlayerStructureScriptableObject PlayerTemplate;
+
+        [Header("Server Side")]
+        [SerializeField] public string Database_Address;
 
         public const string CONFIG_NAME = "com.ellyality.multiplayer.settings";
 
