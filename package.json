@@ -10,7 +10,14 @@
 	"description": "RPG core library",
     "documentationUrl": "https://github.com/Ellyality/package_rpg/blob/main/README.md",
     "dependencies": {
-		"com.ellyality.network.socketio": "1.0.0",
-		"com.ellyality.data.sqlite": "1.0.4",
-    }
+		"com.ellyality.network.socketio": "1.0.2",
+		"com.ellyality.data.sqlite": "1.0.5",
+    },
+	"samples":[
+        {
+            "displayName": "Demo Setup",
+            "description": "Simple rpg setup scene (Single player)",
+            "path": "~Demo"
+        }
+    ]
 }
