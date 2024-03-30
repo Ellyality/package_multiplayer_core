@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
     [System.Serializable]
     public class MonsterStructure : MonsterBase

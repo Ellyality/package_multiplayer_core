@@ -1,10 +1,10 @@
-﻿using Elly.Sqlite;
+﻿using Ellyality.Sqlite;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
     public class MultiplayerDatabaseWindow : EditorWindow
     {

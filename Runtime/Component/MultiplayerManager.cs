@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
-    [AddComponentMenu("Elly/Multiplayer/Manager")]
+    [AddComponentMenu("Ellyality/RPG/RPG Manager")]
     public class MultiplayerManager : MonoBehaviour
     {
         [HideInInspector] MultiplayerSetting setting;

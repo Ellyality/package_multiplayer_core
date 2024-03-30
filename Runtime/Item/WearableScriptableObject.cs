@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
-    [CreateAssetMenu(menuName = "Multiplayer/Item/Wearable")]
+    [CreateAssetMenu(menuName = "Ellyality/RPG/Item/Wearable")]
     public sealed class WearableScriptableObject : ScriptableObject
     {
         [SerializeField] public Wearable Structure;

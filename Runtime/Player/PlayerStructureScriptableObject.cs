@@ -1,8 +1,8 @@
 using UnityEngine;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
-    [CreateAssetMenu(menuName = "Multiplayer/Player/Structure")]
+    [CreateAssetMenu(menuName = "Ellyality/RPG/Structure")]
     public sealed class PlayerStructureScriptableObject : ScriptableObject
     {
         [SerializeField] public PlayerStructure Structure;

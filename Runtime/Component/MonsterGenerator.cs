@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
-    [AddComponentMenu("Elly/Multiplayer/Generator/Monster")]
+    [AddComponentMenu("Ellyality/RPG/Generator/Monster Generator")]
     public class MonsterGenerator : MonoBehaviour
     {
     }

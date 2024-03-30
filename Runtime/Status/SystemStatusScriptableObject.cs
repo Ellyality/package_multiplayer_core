@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
-    [CreateAssetMenu(menuName = "Multiplayer/Status/System")]
+    [CreateAssetMenu(menuName = "Ellyality/RPG/System")]
     public sealed class SystemStatusScriptableObject : ScriptableObject
     {
         [SerializeField] public SystemStatus Status;

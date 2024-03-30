@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
-    [AddComponentMenu("Elly/Multiplayer/Generator/Boss")]
+    [AddComponentMenu("Ellyality/RPG/Generator/Boss Generator")]
     public class BossGenerator : MonoBehaviour
     {
     }

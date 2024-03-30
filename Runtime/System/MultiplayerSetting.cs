@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
     public class MultiplayerSetting : ScriptableObject
     {
@@ -11,7 +11,7 @@ namespace Elly.Multiplayer
         [Header("Server Side")]
         [SerializeField] public string Database_Address;
 
-        public const string CONFIG_NAME = "com.ellyality.multiplayer.settings";
+        public const string CONFIG_NAME = "com.ellyality.rpg.settings";
 
         public static MultiplayerSetting instance;
 

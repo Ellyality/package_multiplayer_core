@@ -1,4 +1,4 @@
-﻿namespace Elly.Multiplayer
+﻿namespace Ellyality.RPG
 {
     public enum DataType
     {

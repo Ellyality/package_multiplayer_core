@@ -3,7 +3,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
     public sealed class MultiplayerSettingProvider : AssetSettingsProvider
     {

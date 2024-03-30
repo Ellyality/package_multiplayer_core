@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
-    [CreateAssetMenu(menuName = "Multiplayer/Status/Environment")]
+    [CreateAssetMenu(menuName = "Ellyality/RPG/Environment")]
     public sealed class EnvironmentStatusScriptableObject : ScriptableObject
     {
         [SerializeField] public EnvironmentStatus Status;

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
     /// <summary>
     /// Contain database query keyword, and display name and description.

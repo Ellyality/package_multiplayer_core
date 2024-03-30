@@ -1,4 +1,4 @@
-﻿namespace Elly.Multiplayer
+﻿namespace Ellyality.RPG
 {
     [System.Serializable]
     public class WearableType : ObjectBase 

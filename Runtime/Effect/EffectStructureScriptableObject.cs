@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
-    [CreateAssetMenu(menuName = "Multiplayer/Effect")]
+    [CreateAssetMenu(menuName = "Ellyality/RPG/Effect")]
     public sealed class EffectStructureScriptableObject : ScriptableObject
     {
         [SerializeField] public EffectStructure Structure;

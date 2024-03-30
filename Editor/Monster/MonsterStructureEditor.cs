@@ -3,7 +3,7 @@ using System.Linq;
 using UnityEditor;
 using UnityEngine;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
     [CustomEditor(typeof(MonsterStructureScriptableObject))]
     [CanEditMultipleObjects]

@@ -1,4 +1,4 @@
-﻿namespace Elly.Multiplayer
+﻿namespace Ellyality.RPG
 {
     public sealed class EffectInstance
     {

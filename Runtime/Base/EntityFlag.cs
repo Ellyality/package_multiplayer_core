@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
     [Flags]
     public enum EntityFlag

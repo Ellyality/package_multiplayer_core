@@ -3,7 +3,7 @@ using UnityEditor;
 using UnityEditor.Build;
 using UnityEditor.Build.Reporting;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
     public sealed class MultiplayerSettingIMGUIRegister : IPreprocessBuildWithReport
     {

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
     public class NatureStructure : ObjectBase
     {

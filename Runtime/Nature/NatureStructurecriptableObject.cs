@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 
-namespace Elly.Multiplayer
+namespace Ellyality.RPG
 {
-    [CreateAssetMenu(menuName = "Multiplayer/Nature")]
+    [CreateAssetMenu(menuName = "Ellyality/RPG/Nature")]
     public sealed class NatureStructurecriptableObject : ScriptableObject
     {
         [SerializeField] public NatureStructure Structure;
